@@ -12,3 +12,5 @@ Após rodar o script [Tratamento de dados](https://github.com/gabrielvpina/anali
 
 
 
+
+
