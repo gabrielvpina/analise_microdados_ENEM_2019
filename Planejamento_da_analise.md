@@ -36,8 +36,7 @@ NU_NOTA_REDACAO - Nota da prova de redação
  
  ### Qual competência da redação apresentou a menor média de notas, qual apresentou a maior? [NU_NOTA_COMP1, NU_NOTA_COMP2, NU_NOTA_COMP3, NU_NOTA_COMP4, NU_NOTA_COMP5]
  
- ### Apresentar os níveis diferentes de educação dos pais entre os candidatos
-[Q001, Q002]
+ ### Apresentar os níveis diferentes de educação dos pais entre os candidatos [Q001, Q002]
  
  ### Entre os pais dos participantes, em média qual deles possui a melhor formação? [Q001, Q002]
  
