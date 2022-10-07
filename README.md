@@ -1,5 +1,5 @@
-# Lista de conteúdos
-- [Análise de Microdados ENEM](Análise de Microdados ENEM)
+# Lista de conteúdo
+
 - [Etapa 1: Tratamento dos dados](Etapa 1: Tratamento dos dados)
 
 # Análise de Microdados ENEM
