@@ -3,11 +3,11 @@
 Desde 2009, os procedimentos de análise dos itens e de cálculo das proficiências no Enem passaram a ter como base a Teoria de Resposta ao Item (TRI). No Enem, o cálculo da proficiência com o uso da TRI permite acrescentar outros aspectos além do quantitativo de acertos (utilizado na TCT), tais como os parâmetros dos itens e o padrão de resposta do participante. Assim, duas pessoas com a mesma quantidade de acertos na prova são avaliadas de formas distintas a depender de quais itens estão certos e podem, assim, ter habilidades diferentes.
 
 
-NU_NOTA_CN - Nota da prova de Ciências da Natureza
-NU_NOTA_CH - Nota da prova de Ciências Humanas
-NU_NOTA_LC - Nota da prova de Linguagens e Códigos
-NU_NOTA_MT - Nota da prova de Matemática
-NU_NOTA_REDACAO - Nota da prova de redação
+NU_NOTA_CN - Nota da prova de Ciências da Natureza;
+NU_NOTA_CH - Nota da prova de Ciências Humanas;
+NU_NOTA_LC - Nota da prova de Linguagens e Códigos;
+NU_NOTA_MT - Nota da prova de Matemática;
+NU_NOTA_REDACAO - Nota da prova de redação.
 
 
 # Quais perguntas eu quero responder?
