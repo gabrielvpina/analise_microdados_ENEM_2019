@@ -1,6 +1,7 @@
-# Lista de conteúdo
+# Exame Nacional do Ensino Médio (ENEM)
+Instiuído em 1998 e aplicado como mecanismo de acesso à educação superior a partir de 2009, o ENEM é uma das principais formas de avaliar o conhecimento dos estudantes brasileiros. A partir dos microdados do ENEM disponibilizados pelo INEP é possível avaliar o desempenho geral dos estudantes brasileiros nas diferentes áreas do conhecimento e também fazer uma intersecção desses dados com as informações disponíveis nos questinários socioecômicos também presentes nos microdados.
 
-- [Etapa 1: Tratamento dos dados](Etapa 1: Tratamento dos dados)
+Essas informações são de extrema relevância para uma maior compreensão sobre a educação brasileira de jovens e adultos. Os dados espelham a realidade do ensino brasileiro em seus diferentes aspectos sociais, econômicos e raciais. 
 
 # Análise de Microdados ENEM
 > Fonte dos microdados: https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem
