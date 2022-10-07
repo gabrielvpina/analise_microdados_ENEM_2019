@@ -12,7 +12,7 @@ NU_NOTA_REDACAO - Nota da prova de redação
 
 # Quais perguntas eu quero responder?
 
-> Os itens entre colchetes ([]) são as colunas do arquivo .csv referentes aos itens das perguntas que guiam a análise. Para mais informações consultar o arquivo 'Dicionário_Microdados_Enem_2019.xlsx'.
+> Os itens entre colchetes [ ] são as colunas do arquivo .csv referentes aos itens das perguntas que guiam a análise. Para mais informações consultar o arquivo 'Dicionário_Microdados_Enem_2019.xlsx'.
 
 # Sobre os participantes da Prova:
  
