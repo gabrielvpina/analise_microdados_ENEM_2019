@@ -1,8 +1,7 @@
-library(dplyr)
-
 # Importar aquivo .csv no RStudio.
-
 library(readr)
+
+
 microdados_2019 <- read_delim("DADOS/MICRODADOS_ENEM_2019.csv", 
                               delim = ";", quote = "\\\"", escape_double = FALSE, 
                               locale = locale(encoding = "latin1"), 
@@ -27,9 +26,3 @@ microdados_filtrados <- data_frame(
 
 # Exportar os dados filtrados para arquivo .csv
 write.csv(microdados_filtrados,"DADOS/microdados_filtrados.csv", row.names = FALSE)
-
-
-
-
-
-
