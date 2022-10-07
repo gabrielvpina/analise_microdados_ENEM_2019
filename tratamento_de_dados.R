@@ -1,3 +1,6 @@
+# Pacote para construção de novo data frame
+library(dplyr)
+
 # Importar aquivo .csv no RStudio.
 library(readr)
 
