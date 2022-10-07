@@ -8,7 +8,9 @@ O tratamento dos dados foi guiado pelo arquivo [Planejamento da análise](https:
 
 Após rodar o script [Tratamento de dados](https://github.com/gabrielvpina/analise_microdados_ENEM_2019/blob/main/tratamento_de_dados.R) vamos obter o arquivo "microdados_filtrados.csv" com somente a informação necessária para responder nossas perguntas. Observe que o arquivo final é bem menor em tamanho que o inicial, o que facilita seu manuseio.
 
-![plot](/home/pinoso/Imagens/Capturas de tela/tamanho_microdados.png)
+![plot](./home/pinoso/Imagens/Capturas de tela/tamanho_microdados.png)
+
+
 
 
 
