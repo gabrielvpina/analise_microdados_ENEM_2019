@@ -15,6 +15,22 @@ Após rodar o script [Tratamento de dados](https://github.com/gabrielvpina/anali
 
 ![plot](imagens/tamanho_microdados.png)
 
+Logo após o tratamento dos dados foi necessário retirar os candidatos que não participaram das provas. Esses participantes continham os campos com as notas nas provas em branco (no caso do RStudio, sinalizados com "NA" nas células nulas). Para a retirada dos dados faltantes, foi ultilizado o seguinte código:
+
+
+```
+# Microdados sem NAs
+
+microdados_sem_NA <- na.omit(microdados_filtrados)
+
+# Exportar microdados sem NAs 
+
+write.csv(microdados_sem_NA,"DADOS/microdados_sem_NA.csv", row.names = FALSE)
+
+```
+
+Assim nós criamos um novo arquivo CSV chamado "microdados_sem_NA.csv" na nossa pasta DADOS.
+
 
 
 
