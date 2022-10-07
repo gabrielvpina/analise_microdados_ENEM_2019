@@ -28,4 +28,14 @@ microdados_filtrados <- data_frame(
 )
 
 # Exportar os dados filtrados para arquivo .csv
+
 write.csv(microdados_filtrados,"DADOS/microdados_filtrados.csv", row.names = FALSE)
+
+# Microdados sem NAs
+
+microdados_sem_NA <- na.omit(microdados_filtrados)
+
+# Exportar microdados sem NAs 
+
+write.csv(microdados_sem_NA,"DADOS/microdados_sem_NA.csv", row.names = FALSE)
+
