@@ -37,7 +37,7 @@ O arquivo [Resultados e Insights](https://github.com/gabrielvpina/analise_microd
 
 É importante ressaltar que os gráficos desse relatório inicial foram feitos a partir da linguagem R, como o exemplo abaixo. A criação do dashboard final irá ultilizar a mesma base de dados usada na criação dos gráficos pelo R.
 
-![plot](imagens/tamanho_microdados.png)
+![plot](imagens/notas_renda)
 
 
 
