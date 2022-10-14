@@ -31,10 +31,13 @@ write.csv(microdados_sem_NA,"DADOS/microdados_sem_NA.csv", row.names = FALSE)
 
 Assim nós criamos um novo arquivo CSV chamado "microdados_sem_NA.csv" na nossa pasta DADOS.
 
-A partir desse arquivo, foi criado o script [análise dos dados](https://github.com/gabrielvpina/analise_microdados_ENEM_2019/blob/main/analise_dos_dados.R) a fim de responder as perguntas que direcionaram o nosso planejamento da análise. Os dados obtidos através desse script foram armazenados em um arquivo do tipo R Markdown (RMD), e logo após convertidos para o formato HTML.
+A partir desse arquivo, foi criado o script [análise dos dados](https://github.com/gabrielvpina/analise_microdados_ENEM_2019/blob/main/analise_dos_dados.R) a fim de responder as perguntas que direcionaram o nosso planejamento da análise. Os dados obtidos através desse script foram armazenados em um arquivo do tipo R Markdown (RMD), e logo após convertidos para o formato HTML. 
 
 O arquivo [Resultados e Insights](https://github.com/gabrielvpina/analise_microdados_ENEM_2019/blob/main/Resultados-e-Insights.html) é um relatório dos dados brutos que direcionaram a nossa análise. Nele estão contidos os gráficos e tabelas contendo os resultados da nossa análise. Será a partir dos dados observados nesse relatório que iremos confeccionar um dashboard priorizando somente as informações mais relevantes e os pontos de destaque na nossa análise.
 
+É importante ressaltar que os gráficos desse relatório inicial foram feitos a partir da linguagem R, como o exemplo abaixo. A criação do dashboard final irá ultilizar a mesma base de dados usada na criação dos gráficos pelo R.
+
+![plot](imagens/tamanho_microdados.png)
 
 
 
