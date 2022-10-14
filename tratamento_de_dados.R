@@ -19,7 +19,7 @@ colnames(microdados_2019)
 
 microdados_filtrados <- data_frame(
   microdados_2019[ ,2:6],
-  microdados_2019[ ,8:9],
+  microdados_2019[ ,8:12],
   microdados_2019[ ,23:27],
   microdados_2019[ ,32:35],
   microdados_2019[ ,45:57],
