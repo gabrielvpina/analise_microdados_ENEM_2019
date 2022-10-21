@@ -41,9 +41,10 @@ O arquivo [Resultados e Insights](https://github.com/gabrielvpina/analise_microd
 
 ![plot](imagens/download.png)
 
-# Dashboard
+# Etapa 3: Dashboard
 
-Para a confecção do dashboard contendo as principais informações foi utilizado o [Looker Studio](https://datastudio.google.com/overview) da Google. Para ter acesso ao dashboard basa clicar [nesse link](https://datastudio.google.com/reporting/3bbf8c16-aa17-4c29-8a07-079afefc7481).
+Para a confecção do dashboard contendo as principais informações foi utilizado o [Looker Studio](https://datastudio.google.com/overview) da Google.
+Para ter acesso ao dashboard basa clicar [nesse link](https://datastudio.google.com/reporting/3bbf8c16-aa17-4c29-8a07-079afefc7481).
 
 ![plot](imagens/print.png)
 
